@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{1DDF70E6-9FD6-19AC-D54B-59703F9E65E0}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameSettings.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Bullet.cs" />
+      <File FileName="Assets/Scripts/Weapon.cs" />
+      <File FileName="Assets/Scripts/BeerBottle.cs" />
+      <File FileName="Assets/Scripts/GlobalReferances.cs" />
+      <File FileName="Assets/Scripts/MouseMovement.cs" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" />
+      <File FileName="Assets/Scripts/ClickToMove.cs" />
+      <File FileName="Assets/Scripts/Zombies.cs" />
+      <File FileName="Assets/Scripts/SaveLoadManager.cs" />
+      <File FileName="Assets/Scripts/GameManager.cs" />
+      <File FileName="Assets/Scripts/MainMenuManager.cs" />
+      <File FileName="Assets/Scripts/GameSettings.cs" Line="23" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BottleEscape_A" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Old Sea Port" expanded="True">
+                <Node name="Shaders" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="GameSettings.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d8aa1820-80e4-4036-be40-2daf2625deec" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
